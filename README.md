@@ -23,3 +23,4 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 ### 10/01/2016
 - Enrolled in the program
 - Finished Lecture 1: Introduction to computing principles
+- Finished Lecture 2: Variables
