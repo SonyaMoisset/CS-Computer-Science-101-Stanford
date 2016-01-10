@@ -25,3 +25,4 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Lecture 1: Introduction to computing principles
 - Finished Lecture 2: Variables
 - Finished Lecture 3: Introduction to digital images
+- Finished Lecture 4: Image code
