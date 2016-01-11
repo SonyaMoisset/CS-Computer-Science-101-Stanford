@@ -31,3 +31,4 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 ### 11/01/2016
 - Finished Lecture 5: For Loop
 - Finished Lecture 6: Expressions
+- Finished Lecture 7: Image puzzles
