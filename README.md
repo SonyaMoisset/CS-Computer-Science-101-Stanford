@@ -26,3 +26,6 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Lecture 2: Variables
 - Finished Lecture 3: Introduction to digital images
 - Finished Lecture 4: Image code
+
+### 11/01/2016
+- Finished Lecture 5: For Loop
