@@ -27,9 +27,12 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Introduction
 - Finished Lecture 3: Introduction to digital images
 - Finished Lecture 4: Image code
+- Finished Week 1
 
 ### 11/01/2016
 - Finished Lecture 5: For Loop
 - Finished Lecture 6: Expressions
 - Finished Lecture 7: Image puzzles
 - Finished Lecture 8: Grayscale images
+- Finished Week 2
+- Finished Lecture 9: If Logic
