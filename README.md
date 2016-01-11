@@ -24,7 +24,7 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Enrolled in the program
 - Finished Lecture 1: Introduction to computing principles
 - Finished Lecture 2: Variables
-- Finished Introduction
+- Finished Introduction Lectures Serie
 - Finished Lecture 3: Introduction to digital images
 - Finished Lecture 4: Image code
 - Finished Week 1
@@ -36,3 +36,5 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Lecture 8: Grayscale images
 - Finished Week 2
 - Finished Lecture 9: If Logic
+- Finished Lecture 10: Bluescreen
+- Finished Digital Images Lectures Serie
