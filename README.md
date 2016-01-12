@@ -41,4 +41,6 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 
 ### 12/01/2016
 - Finished Lecture 11: hardware
+- Finished Optional Video: Hard-Drive
 - Finished Hardware Lectures Serie
+- Finished Lecture 12: Bits Bytes 1
