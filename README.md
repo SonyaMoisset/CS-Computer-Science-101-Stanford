@@ -44,3 +44,6 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Optional Video: Hard-Drive
 - Finished Hardware Lectures Serie
 - Finished Lecture 12: Bits Bytes 1
+- Finished Lecture 13: Bits Bytes 2
+- Finished Week 3
+- Finished Bits & Bytes Lectures Serie
