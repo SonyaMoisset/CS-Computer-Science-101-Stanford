@@ -49,4 +49,4 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Bits & Bytes Lectures Serie
 - Finished Lecture 14: Software I
 - Finished Lecture 14: Software II
-- Finished Sotware Lectures Serie
+- Finished Software Lectures Serie
