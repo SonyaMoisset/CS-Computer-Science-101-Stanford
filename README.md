@@ -38,3 +38,7 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Lecture 9: If Logic
 - Finished Lecture 10: Bluescreen
 - Finished Digital Images Lectures Serie
+
+### 12/01/2016
+- Finished Lecture 11: hardware
+- Finished Hardware Lectures Serie
