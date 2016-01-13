@@ -51,5 +51,7 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Lecture 15: Software II
 - Finished Software Lectures Serie
 
-### 12/01/2016
+### 13/01/2016
 - Finished Lecture 16: Networking
+- Finished Lecture 17: TCP/IP
+- Finished Networks Lectures Serie
