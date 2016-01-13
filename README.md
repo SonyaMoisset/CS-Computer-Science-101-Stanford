@@ -55,3 +55,5 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Lecture 16: Networking
 - Finished Lecture 17: TCP/IP
 - Finished Networks Lectures Serie
+- Finished Lecture 18: Table Data
+- Finished Week 4
