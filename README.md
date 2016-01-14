@@ -57,3 +57,6 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Networks Lectures Serie
 - Finished Lecture 18: Table Data
 - Finished Week 4
+
+### 14/01/2016
+- Finished Lecture 19 Strings
