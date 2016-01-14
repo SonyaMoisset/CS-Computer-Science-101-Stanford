@@ -62,3 +62,5 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Lecture 19: Strings
 - Finished Lecture 20: Boolean Logic
 - Finished Lecture 21: Count I
+- Finished Lecture 22: Count II
+- Finished Tables Lectures Serie
