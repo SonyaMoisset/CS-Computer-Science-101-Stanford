@@ -64,3 +64,7 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Lecture 21: Count I
 - Finished Lecture 22: Count II
 - Finished Tables Lectures Serie
+
+### 15/01/2016
+- Finished LEcture 23: Analog Digital I
+- Finished Week 5
