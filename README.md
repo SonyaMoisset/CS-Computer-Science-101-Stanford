@@ -70,7 +70,8 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 - Finished Week 5
 - Finished Lecture 24: Analog Digital II
 - Finished Lecture 25: Digital Media
-- FInished Analog Digital Lectures Serie
+- Finished Analog Digital Lectures Serie
 
 ### 16/01/2015
 - Finished Lecture 26: Computer Security
+- Finished Security Lectures Serie
