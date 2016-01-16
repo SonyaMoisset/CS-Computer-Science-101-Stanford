@@ -1,4 +1,5 @@
 # Computer Science 101
+# COURSE AUDIT COMPLETED
 ### Created by The STANFORD UNIVERSITY
 
 CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. Computers can appear very complicated, but in reality, computers work within just a few, simple patterns. CS101 demystifies and brings those patterns to life, which is useful for anyone using computers today. That said, CS101 is easier than a full programming course. CS101 goes deep enough that you can see how computers work, their strengths and limitations, but without all the complexity of a full programming course.
