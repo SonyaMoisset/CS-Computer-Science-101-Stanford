@@ -75,3 +75,4 @@ In CS101, students play and experiment with short bits of "computer code" to bri
 ### 16/01/2015
 - Finished Lecture 26: Computer Security
 - Finished Security Lectures Serie
+- Finished Conclusions
